@@ -5,22 +5,20 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DHYEY2703&label=Profile%20views&color=0e75b6&style=flat">
+<img src="https://komarev.com/ghpvc/?username=DHYEY2703&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Information Technology student at **Parul University (2022–2026)**  
+🎓 B.Tech Information Technology student at **Parul University (2022 – 2026)**  
 💻 Passionate about **MERN Stack Development**  
 🎨 Interested in **Frontend Development & UI/UX Design**  
-🔐 Also exploring **Cybersecurity & Recon**
+🔐 Exploring **Cybersecurity & Recon**
 
-I enjoy building modern web applications and continuously improving my development skills.
+I enjoy building modern web applications and continuously learning new technologies.
 
 ---
 
@@ -54,18 +52,18 @@ I enjoy building modern web applications and continuously improving my developme
 
 # 🌟 Featured Projects
 
-### 💬 Chatify – Real Time Chat App
+### 💬 Chatify – Real Time Chat Application
 
-MERN stack real time chat application using **Socket.io**.
+A MERN stack based real-time chat app using **Socket.io**.
 
-Features:
+Features
 
-- Real time messaging  
-- Send images  
-- Online users indicator  
-- Profile modal  
-- Double tap to like message  
-- Clear chat feature  
+- Real time messaging
+- Image sharing
+- Online users indicator
+- Profile modal
+- Double tap like message
+- Clear chat functionality
 
 Repository  
 https://github.com/DHYEY2703/chatify-by-dhyey
@@ -76,13 +74,13 @@ https://github.com/DHYEY2703/chatify-by-dhyey
 
 A MERN based restaurant platform with **ImageKit integration**.
 
-Features:
+Features
 
-- User authentication  
-- Food partner login  
-- Image upload  
-- Food listing  
-- Save food feature  
+- User authentication
+- Food partner login
+- Image upload
+- Food listing
+- Save food feature
 
 Repository  
 https://github.com/DHYEY2703/zomato-restaurant-management
@@ -93,9 +91,17 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHYEY2703&show_icons=true&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=DHYEY2703&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHYEY2703&layout=compact&theme=tokyonight" height="180">
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHYEY2703&layout=compact&theme=tokyonight">
 
 </p>
 
@@ -121,8 +127,8 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 
 # 📫 Connect With Me
 
-📧 Email: dhyeybarbhaya@gmail.com
+📧 Email: dhyeybarbhaya@gmail.com  
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+⭐ If you like my projects, consider giving them a star.
