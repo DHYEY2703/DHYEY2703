@@ -14,9 +14,11 @@
 # 🚀 About Me
 
 🎓 B.Tech Information Technology student at **Parul University (2022–2026)**  
-💻 MERN Stack Developer  
-🎨 Interested in UI/UX and frontend development  
-🔐 Exploring cybersecurity & recon  
+💻 Passionate about **MERN Stack Development**  
+🎨 Interested in **Frontend Development & UI/UX Design**  
+🔐 Exploring **Cybersecurity & Recon**
+
+I enjoy building modern web applications and continuously improving my development skills.
 
 ---
 
@@ -50,21 +52,36 @@
 
 ## 💬 Chatify – Real Time Chat Application
 
-MERN stack based real-time chat application using Socket.io.
+A MERN stack based real-time chat application using **Socket.io**
 
-<img src="https://user-images.githubusercontent.com/placeholder/chatapp.png" width="600"/>
+Features
 
-[View Repository](https://github.com/DHYEY2703/chatify-by-dhyey)
+• Real time messaging  
+• Send images  
+• Online users indicator  
+• Profile modal  
+• Double tap like message  
+• Clear chat feature  
+
+🔗 Repository  
+https://github.com/DHYEY2703/chatify-by-dhyey
 
 ---
 
 ## 🍽 Restaurant Management System
 
-Restaurant management system built with MERN and ImageKit.
+A MERN based restaurant platform with **ImageKit integration**
 
-<img src="https://user-images.githubusercontent.com/placeholder/restaurant.png" width="600"/>
+Features
 
-[View Repository](https://github.com/DHYEY2703/zomato-restaurant-management)
+• User authentication  
+• Food partner login  
+• Image upload  
+• Food listing  
+• Save food feature  
+
+🔗 Repository  
+https://github.com/DHYEY2703/zomato-restaurant-management
 
 ---
 
@@ -98,7 +115,7 @@ Restaurant management system built with MERN and ImageKit.
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DHYEY2703&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=DHYEY2703&theme=algolia)
 
 ---
 
@@ -108,25 +125,9 @@ Restaurant management system built with MERN and ImageKit.
 
 ---
 
-# 🎧 Spotify Now Playing
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
----
-
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-Coming soon...
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
 # 📫 Connect With Me
 
-📧 Email: dhyeybarbhaya@gmail.com
+📧 Email: dhyeybarbhaya@gmail.com  
 
 ---
 
