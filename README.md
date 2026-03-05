@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Dhyey Barbhaya
 
-<!--
-**DHYEY2703/DHYEY2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 B.Tech IT Student at Parul University (2022 – 2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![Dhyey's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHYEY2703&show_icons=true)
+
+---
+
+## 📌 Projects
+
+💬 Chatify – Real Time Chat App  
+🍽 Restaurant Management System  
+🎬 Netflix Clone  
+🛒 Amazon Clone
