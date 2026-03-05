@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+Developer;UI%2FUX+Designer;Cybersecurity+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -14,11 +14,16 @@
 # 🚀 About Me
 
 🎓 B.Tech Information Technology student at **Parul University (2022–2026)**  
-💻 Passionate about **MERN Stack Development**  
-🎨 Interested in **Frontend Development & UI/UX Design**  
+
+💻 Passionate about **MERN Stack Development**
+
+🎨 Interested in **Frontend Development & UI/UX Design**
+
 🔐 Exploring **Cybersecurity & Recon**
 
-I enjoy building modern web applications and continuously improving my development skills.
+✍️ I also enjoy **writing Shayari & Poetry**
+
+📚 I like **reading novels and learning new technologies**
 
 ---
 
@@ -26,7 +31,7 @@ I enjoy building modern web applications and continuously improving my developme
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,figma,git,github,vscode,postman" />
 
 </p>
 
@@ -45,6 +50,24 @@ I enjoy building modern web applications and continuously improving my developme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📚 Currently Learning
+
+• Advanced MERN Stack Development  
+
+• WebSockets & Real Time Systems  
+
+• Cybersecurity & Recon Techniques  
+
+• Scalable Backend Architecture  
 
 ---
 
@@ -127,7 +150,9 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 
 # 📫 Connect With Me
 
-📧 Email: dhyeybarbhaya@gmail.com  
+📧 Email: dhyeybarbhaya@gmail.com
+
+💼 GitHub: https://github.com/DHYEY2703
 
 ---
 
