@@ -13,11 +13,11 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Information Technology student at **Parul University (2022–2026)**  
+🎓 B.Tech Information Technology student at **Parul University (2022–2026)**
 
 💻 Passionate about **MERN Stack Development**
 
-🎨 Interested in **Frontend Development & UI/UX Design**
+🎨 Interested in **MERN Stack Development & UI/UX Design**
 
 🔐 Exploring **Cybersecurity & Recon**
 
@@ -39,39 +39,57 @@
 
 # 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
 # 📚 Currently Learning
 
-• Advanced MERN Stack Development  
+• Advanced MERN Stack Development
 
-• WebSockets & Real Time Systems  
+• WebSockets & Real Time Systems
 
-• Cybersecurity & Recon Techniques  
+• Cybersecurity & Recon Techniques
 
-• Scalable Backend Architecture  
+• Scalable Backend Architecture
 
 ---
 
 # 🌟 Featured Projects
+
+## 🏢 Restaurant Management ERP
+
+Enterprise-grade **Restaurant Management ERP** built using **MERN Stack + AI Microservices**
+
+Features
+
+• Multi-tenant SaaS architecture
+• POS billing system
+• Inventory & purchase management
+• Kitchen Display System (KDS)
+• Financial reports & analytics
+• AI powered sales forecasting
+
+🔗 Repository
+https://github.com/DHYEY2703/RMS-ERP
+
+---
 
 ## 💬 Chatify – Real Time Chat Application
 
@@ -79,14 +97,14 @@ A MERN stack based real-time chat application using **Socket.io**
 
 Features
 
-• Real time messaging  
-• Send images  
-• Online users indicator  
-• Profile modal  
-• Double tap like message  
-• Clear chat feature  
+• Real time messaging
+• Send images
+• Online users indicator
+• Profile modal
+• Double tap like message
+• Clear chat feature
 
-🔗 Repository  
+🔗 Repository
 https://github.com/DHYEY2703/chatify-by-dhyey
 
 ---
@@ -97,13 +115,13 @@ A MERN based restaurant platform with **ImageKit integration**
 
 Features
 
-• User authentication  
-• Food partner login  
-• Image upload  
-• Food listing  
-• Save food feature  
+• User authentication
+• Food partner login
+• Image upload
+• Food listing
+• Save food feature
 
-🔗 Repository  
+🔗 Repository
 https://github.com/DHYEY2703/zomato-restaurant-management
 
 ---
@@ -132,13 +150,13 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 
 # 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHYEY2703&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHYEY2703\&theme=react-dark)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DHYEY2703&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=DHYEY2703\&theme=algolia)
 
 ---
 
@@ -150,7 +168,7 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 
 # 📫 Connect With Me
 
-📧 Email: dhyeybarbhaya@gmail.com
+📧 Email: [dhyeybarbhaya@gmail.com](mailto:dhyeybarbhaya@gmail.com)
 
 💼 GitHub: https://github.com/DHYEY2703
 
