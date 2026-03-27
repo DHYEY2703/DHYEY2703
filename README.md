@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Verse Loop" width="500" style="border-radius: 15px;" />
-</p>
-<h1 align="center">🕸️ D H Y E Y &nbsp;&nbsp;&nbsp; B A R B H A Y A 🕸️</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dhyey%20Barbhaya&fontSize=70&animation=twinkling&desc=Full%20Stack%20MERN%20Architect&descAlign=50&descAlignY=70&descSize=25" />
 
 
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
