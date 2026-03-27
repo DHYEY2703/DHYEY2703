@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dhyey%20Barbhaya&fontSize=70&animation=twinkling&desc=Full%20Stack%20MERN%20Architect&descAlign=50&descAlignY=70&descSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DHYEY%20BARBHAYA&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=twinkling" />
+
 
 
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
