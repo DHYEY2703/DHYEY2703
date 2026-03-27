@@ -178,3 +178,7 @@ https://github.com/DHYEY2703/zomato-restaurant-management
 ---
 
 ⭐ If you like my projects, consider giving them a star!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:223057,100:E72020&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=65" />
+</p>
