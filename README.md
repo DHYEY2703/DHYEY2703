@@ -1,11 +1,8 @@
-<div align="center">
-  <!-- Glowing Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhyey+Barbhaya!" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://media.tenor.com/gK1wDWe_l0gAAAAC/into-the-spiderverse-spiderman.gif" alt="Spider-Verse Leap" width="800" />
+</p>
+<h1 align="center">🕸️ D H Y E Y &nbsp;&nbsp;&nbsp; B A R B H A Y A 🕸️</h1>
 
- 
-</div>
 
 
 
