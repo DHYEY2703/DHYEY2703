@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=900&size=65&duration=4000&pause=1000&color=E23636&center=true&vCenter=true&width=800&height=150&lines=🕸️+DHYEY+BARBHAYA+🕸️;🕷️+YOUR+FRIENDLY+NEIGHBORHOOD+ENGINEER+🕷️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=55&duration=4000&pause=1000&color=FF0044&background=0b0b0b&center=true&vCenter=true&width=800&height=150&lines=🕷️+DHYEY_BARBHAYA+🕷️;🕸️+SV++//++EARTH_1610+🕸️" />
 </p>
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
