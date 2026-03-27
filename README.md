@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://media.tenor.com/gK1wDWe_l0gAAAAC/into-the-spiderverse-spiderman.gif" alt="Spider-Verse Leap" width="800" />
+  <img src="https://media.giphy.com/media/5ndfNkziqIZM1FlHsc/giphy.gif" alt="Miles Swing" width="800" style="border-radius: 15px;" />
 </p>
 <h1 align="center">🕸️ D H Y E Y &nbsp;&nbsp;&nbsp; B A R B H A Y A 🕸️</h1>
-
-
-
 
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
