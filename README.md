@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Verse Loop" width="800" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Verse Loop" width="500" style="border-radius: 15px;" />
 </p>
 <h1 align="center">🕸️ D H Y E Y &nbsp;&nbsp;&nbsp; B A R B H A Y A 🕸️</h1>
 
