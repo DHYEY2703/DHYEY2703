@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/5ndfNkziqIZM1FlHsc/giphy.gif" alt="Miles Swing" width="800" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Verse Loop" width="800" style="border-radius: 15px;" />
 </p>
 <h1 align="center">🕸️ D H Y E Y &nbsp;&nbsp;&nbsp; B A R B H A Y A 🕸️</h1>
+
 
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
