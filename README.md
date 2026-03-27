@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dhyey Barbhaya</h1>
+<div align="center">
+  <!-- Glowing Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhyey+Barbhaya!" alt="Typing SVG" />
+  </a>
+
+  <!-- Animated Sub-text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=ff0055&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+MERN+Engineer;AI+%26+Cloud+Enthusiast;Building+Scalable+Architectures;Welcome+to+my+Digital+Workspace" alt="Sub-typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHYEY2703&label=Profile%20Views&color=00ffcc&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
 <p align="center">
