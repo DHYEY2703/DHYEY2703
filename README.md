@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DHYEY%20BARBHAYA&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=twinkling" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E23636,0B42A8,E23636&height=250&section=header&text=DHYEY%20BARBHAYA&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=twinkling" />
+</p>
 
 
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
