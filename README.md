@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E23636,0B42A8,E23636&height=250&section=header&text=DHYEY%20BARBHAYA&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=900&size=65&duration=4000&pause=1000&color=E23636&center=true&vCenter=true&width=800&height=150&lines=🕸️+DHYEY+BARBHAYA+🕸️;🕷️+YOUR+FRIENDLY+NEIGHBORHOOD+ENGINEER+🕷️" />
 </p>
-
-
 <h3 align="center">MERN Stack Developer | B.Tech IT Student</h3>
 
 <p align="center">
